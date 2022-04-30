@@ -1,0 +1,68 @@
+{
+  "packages": [
+    {
+      "name": "Pacote Alemanha",
+      "Trip Agent": "Rodrigo Alcântara",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+      "shortDescription": "Venha conhecer as maravilhas das terras Germânicas.",
+      "id": 1
+    },
+    {
+      "name": "Pacote Espanha",
+      "Trip Agent": "Rodrigo Alcântara",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+      "shortDescription": "Venha conhecer as maravilhas das terras Ibéricas.",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Pacote Grécia",
+      "Trip Agent": "Rodrigo Alcântara",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+      "shortDescription": "Venha conhecer as maravilhas das terras Gregas."
+    },
+    {
+      "id": 4,
+      "name": "Pacote França",
+      "Trip Agent": "Rodrigo Alcântara",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+      "shortDescription": "Venha conhecer as maravilhas das terras Francesas."
+    },
+    {    
+      "id": 5,
+      "name": "Pacote Portugal",
+      "Trip Agent": "Rodrigo Alcântara",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+      "shortDescription": "Venha conhecer as maravilhas das terras Portuguesas."
+    },
+    {
+      "id": 6,
+      "name": "Pacote Inglaterra",
+      "Trip Agent": "Rodrigo Alcântara",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+      "shortDescription": "Venha conhecer as maravilhas das terras Inglesas."
+    },
+    {
+      "id": 7,
+      "name": "Pacote Suíça",
+      "Trip Agent": "Rodrigo Alcântara",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+      "shortDescription": "Venha conhecer as maravilhas das terras Alpinas."
+    },
+    {
+      "id": 8,
+      "name": "Pacote Itália",
+      "Trip Agent": "Rodrigo Alcântara",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+      "shortDescription": "Venha conhecer as maravilhas das terras Italianas."
+    }
+  ],
+  "inscriptions": [
+    {
+      "name": "José",
+      "email": "jose@jose.com",
+      "pacoteId": 1,
+      "id": 1
+    }
+  ]
+}  
